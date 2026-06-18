@@ -1,0 +1,5 @@
+print("Welcome to python programming")
+print("Emmanuel")
+print(1000)
+print(30+20)
+print(30*3)
